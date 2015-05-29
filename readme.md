@@ -1,5 +1,6 @@
-# XING Cooking Fridays
-## El Cookbook
+# El Cookbook
+
+## XING Cooking Fridays
 
 Cookbook with the recipes from out Cooking Fridays.
 
