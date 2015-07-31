@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmentBaseVersion</key>
+	<integer>0</integer>
+	<key>adjustmentData</key>
+	<data>
+	CAASKZrh/4wCIw3JLxY+FY/CdT0dERERPiU5bWA/LetRuD01AAAAPz25HoW9EhDy3Zqb
+	AQoN4XqUPhVLfjE+Eg2qxIenAgcIAhUAAAAAEhLK4LWbAQwNhuvRPRVLfrE9GAA=
+	</data>
+	<key>adjustmentEditorBundleID</key>
+	<string>com.niksoftware.snapseedforipad</string>
+	<key>adjustmentFormatIdentifier</key>
+	<string>com.niksoftware.snapseedforipad</string>
+	<key>adjustmentFormatVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>
