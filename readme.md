@@ -1,7 +1,7 @@
 # El Cookbook
 
-## XING Cooking Fridays
+## XING's Cooking Club
 
-Cookbook with the recipes from our Cooking Fridays in the office.
+Cookbook with the recipes from our Cooking Club in the office.
 
-[Download the PDF](pub/XING Cooking Fridays - El Cookbook.pdf)
+[Download epub or PDF](https://github.com/naoisegolden/elcookbook/releases)
